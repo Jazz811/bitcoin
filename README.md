@@ -1,12 +1,12 @@
 Bitcoin Core integration/staging tree
 =====================================
 
-https://bitcoincore.org
+https://bitcoin.org
 
 For an immediately usable, binary version of the Bitcoin Core software, see
-https://bitcoincore.org/en/download/.
+https://bitcoin.org/en/download/.
 
-What is Bitcoin Core?
+What is Bitcoin?
 ---------------------
 
 Bitcoin Core connects to the Bitcoin peer-to-peer network to download and fully
@@ -25,7 +25,7 @@ Development Process
 -------------------
 
 The `master` branch is regularly built (see `doc/build-*.md` for instructions) and tested, but it is not guaranteed to be
-completely stable. [Tags](https://github.com/bitcoin/bitcoin/tags) are created
+completely stable. [Tags](https://github.com/Satoshin-Btc/bitcoin/tags) are created
 regularly from release branches to indicate new official, stable release versions of Bitcoin Core.
 
 The https://github.com/bitcoin-core/gui repository is used exclusively for the
